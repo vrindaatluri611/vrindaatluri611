@@ -40,14 +40,6 @@ Computer Science Undergraduate at VIT Vellore passionate about building software
 
 ---
 
-## Beyond Coding
-
-- Presented research at an international seminar on AI and digital creativity.
-- Participated in SHUNYA-A-THON 2025.
-- Continuously learning through certifications and hands-on projects.
-
----
-
 ## GitHub Analytics
 
 <p align="center">
