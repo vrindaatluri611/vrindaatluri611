@@ -6,7 +6,7 @@ Computer Science Undergraduate at VIT Vellore passionate about building software
 
 ## Currently
 
-- Building full-stack web applications
+- Building  web applications
 - Learning more about AI and intelligent systems
 - Exploring cognitive science in software design
 - Contributing to projects that solve real-world problems
@@ -21,7 +21,7 @@ Computer Science Undergraduate at VIT Vellore passionate about building software
 
 ---
 
-## Selected Projects
+##  Projects
 
 | Project | What it does |
 |---------|---------------|
