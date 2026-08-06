@@ -61,7 +61,7 @@ Computer Science Undergraduate at VIT Vellore passionate about building software
 
 **Email:** vrindaatluri@gmail.com
 
-**LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN
+**LinkedIn:** https://www.linkedin.com/in/vrinda-atluri-22a1b3318/
 
 ---
 
